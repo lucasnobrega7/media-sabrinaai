@@ -1,0 +1,35 @@
+AUDIO 1
+URL:
+https://chatvolt-bucket.s3.us-east-1.amazonaws.com/organizations/cm381hu4u02pnzijcsej9psbg/media/clientes_audios_Prova_de_Recebimento_1.mp3
+- Confirmação de recebimento
+Cliente confirma recebimento do produto Varizen em perfeito estado e expressa confiança no site, demonstrando expectativa positiva para o tratamento.
+
+AUDIO 2
+URL:
+https://chatvolt-bucket.s3.us-east-1.amazonaws.com/organizations/cm381hu4u02pnzijcsej9psbg/media/clientes_audios_Primeiros_Resultados.mp3
+- Relato de progresso
+Cliente relata uso correto do produto, com observação de melhorias iniciais nas pernas após primeiro frasco e expectativa de resultados mais significativos com continuidade do tratamento.
+
+AUDIO 3
+URL:
+https://chatvolt-bucket.s3.us-east-1.amazonaws.com/organizations/cm381hu4u02pnzijcsej9psbg/media/clientes_audios_Funciona_Recompra.mp3
+- Depoimento de recompra
+Cliente expressa satisfação com os primeiros resultados do tratamento, relatando melhora visível e já realizando nova compra do produto antes mesmo de terminar o primeiro frasco.
+
+AUDIO 4
+URL:
+https://chatvolt-bucket.s3.us-east-1.amazonaws.com/organizations/cm381hu4u02pnzijcsej9psbg/media/clientes_audios_Depoimento_Elizete.mp3
+- Depoimento de cliente
+Elisete relata experiência positiva com Varizem após duas cirurgias mal sucedidas, destacando desaparecimento de varizes grossas após primeiro frasco e recomendando o produto.
+
+AUDIO 5
+URL:
+https://chatvolt-bucket.s3.us-east-1.amazonaws.com/organizations/cm381hu4u02pnzijcsej9psbg/media/clientes_audios_Depoimento_Iraní.mp3
+- Depoimento de cliente
+Irani compartilha alívio de dores crônicas nas pernas após uso de Varizem, contrastando com tratamentos anteriores ineficazes, e elogia atendimento pós-venda.
+
+AUDIO 6
+URL:
+https://chatvolt-bucket.s3.us-east-1.amazonaws.com/organizations/cm381hu4u02pnzijcsej9psbg/media/clientes_audios_Funciona_Recomendação_médica.mp3
+- Recomendação médica
+Cliente relata que médico vascular, impressionado com resultados do Varizem, cancelou cirurgia planejada e passou a recomendar o produto para outros pacientes.
